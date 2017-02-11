@@ -1,5 +1,5 @@
 /*  
-  // hover is not working properly
+  // hover event property is not working properly
 	$("document").ready(function(){
 		
 		
